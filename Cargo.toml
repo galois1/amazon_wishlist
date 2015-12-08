@@ -1,0 +1,9 @@
+[package]
+name = "amazon-wishlist"
+version = "0.1.0"
+authors = ["hannelita <hannelita@gmail.com>"]
+
+[dependencies]
+iron = "*"
+hyper = "*"
+
